@@ -5,7 +5,7 @@
 ## Setup
 Clone the config:
 ```
-git clone https://github.com/dima618/tmux-config.git ~/.config/tmux && tmux
+git clone https://github.com/dima618/tmux-config.git ~/.config/tmux
 ```
 Now install TPM:
 ```
