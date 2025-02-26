@@ -3,6 +3,10 @@
 
 
 ## Setup
+**Prerequisite**
+* Install [tmux](https://github.com/tmux/tmux/wiki/Installing)
+* Install [yq](https://github.com/mikefarah/yq?tab=readme-ov-file#install)
+
 Clone the config:
 ```
 git clone https://github.com/dima618/tmux-config.git ~/.config/tmux
